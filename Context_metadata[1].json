@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.3+commit.8d00100c"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/DMC-INU.sol": "Context"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/DMC-INU.sol": {
+			"keccak256": "0x0224e9039f28f52ceb4de2f7ca139c1b12650ffb3c4c58502a50da4151dbce1c",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://d0d4a6b5cea6a7f4225b5309076b8c7476f369e3c3c434189106f312b621f6ba",
+				"dweb:/ipfs/QmcF37yswfSsaP7fKvRFLDvxHH5XX6Ewj6uWRY5iH4o6Vv"
+			]
+		}
+	},
+	"version": 1
+}
